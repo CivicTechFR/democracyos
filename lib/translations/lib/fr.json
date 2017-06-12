@@ -30,7 +30,7 @@
   "admin-permissions.visibility.collaborative.title": "Collaboratif",
   "admin-permissions.visibility.confirm": "Êtes-vous sûr de vouloir rendre ce forum '{visibility}'?",
   "admin-permissions.visibility.private.description": "Vous choisissez qui peut voir ce forum.",
-  "admin-permissions.visibility.private.title": "Privée",
+  "admin-permissions.visibility.private.title": "Privé",
   "admin-permissions.visibility.public.description": "Toute personne peut voir le contenu de ce forum et pourra participer.",
   "admin-permissions.visibility.public.title": "Ouvert à tous",
   "admin-permissions.visibility.title": "Visibilité",
